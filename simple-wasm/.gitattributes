@@ -1,0 +1,3 @@
+wasm_exec.js linguist-vendored
+
+*.html linguist-detectable=false
